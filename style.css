@@ -1,0 +1,86 @@
+
+
+#greet {
+    text-align: center;
+    color: orangered;
+    font-weight: bolder;
+}
+
+.container-fluid {
+    text-align: center;
+    margin-top: 60px;
+    border: 5px solid orangered;
+    background-color:white;
+}
+
+.labels {
+    font-size: 24px;
+    color: orangered;
+    font-weight: bold;
+}
+
+#username {
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+#email {
+    margin-left: 27px;
+    margin-top: 30px;
+}
+
+#number {
+    margin-top: 30px;
+    margin-left: 15px;
+
+}
+
+.btn-primary {
+    background-color: orangered !important;
+    color: white !important;
+    margin-top: 90px !important;
+    border-bottom: none !important;
+    border-top: none !important;
+}
+
+a{
+    color: white !important;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+
+  li {
+      list-style-type: none;
+      font-size: 24px;
+  }
+
+  #heading {
+      color: orangered;
+      text-align: center;
+      font-weight: bold;
+  }
+
+  .navbar-collapse {
+    margin-left: 1000px;
+  }
+
+  li {
+      border: 1px solid maroon;
+      margin-top: 5px;
+  }
+
+  .selected {
+    font-weight: bolder;
+    color: black;
+  }
